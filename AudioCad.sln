@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31402.337
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AudioCad", "AudioCad.csproj", "{2DBF5145-43F6-4C62-8540-08F2FC12C89C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2DBF5145-43F6-4C62-8540-08F2FC12C89C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2DBF5145-43F6-4C62-8540-08F2FC12C89C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2DBF5145-43F6-4C62-8540-08F2FC12C89C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2DBF5145-43F6-4C62-8540-08F2FC12C89C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {023B299B-8A73-4E71-8903-B515FAD75EC0}
+	EndGlobalSection
+EndGlobal
